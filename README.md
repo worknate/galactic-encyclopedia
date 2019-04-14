@@ -9,9 +9,9 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Species
 
-* [Anrbzyv-udaz-gavr](Anrbzyv-udaz-gavr) (Elgyems)
-* [Factors](Factors)
-* [Humans](Humans)
+* [Anrbzyv-udaz-gavr](species/Anrbzyv-udaz-gavr) (Elgyems)
+* [Factors](species/Factors)
+* [Humans](species/Humans)
 
 ## Factions
 
@@ -30,15 +30,15 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Planets
 
-* [Aganian](Aganian)
-* [Andophala](Andophala) - Al-Sham System (0403)
+* [Aganian](planets/Aganian)
+* [Andophala](planets/Andophala) - Al-Sham System (0403)
 * _Gunn_
-* [Hani](Hani)
-* [Earth](Earth)
+* [Hani](planets/Hani)
+* [Earth](planets/Earth)
 
 ## Starships
 
-* [The Rocinante](Rocinante)
+* [The Rocinante](starships/Rocinante)
 
 ## Persons of Interest
 
