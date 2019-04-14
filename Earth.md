@@ -1,0 +1,1 @@
+_Earth_ (also known as _Terra_) is the [Human](Humans) homeworld, the third planet of the _Sol_ system. Records show the location as a great distance down the Orion–Cygnus Arm from Bactriani Gamma Sector.
