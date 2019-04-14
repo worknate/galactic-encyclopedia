@@ -41,9 +41,12 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Persons of Interest
 
+* Timofey Valentinovich - Powerful crime boss, [Dnepr](planets/Andophala)
+
+## In Memoriam
+
 * Finnian McGuffin (deceased) - Son-in-law of Neela Patil, CFO of [Katalin Fra](factions/Katalin Fra)
 * James Cook (deceased) - Player character, gunslinger, smuggler
-* Timofey Valentinovich - Powerful crime boss, [Dnepr](planets/Andophala)
 
 ## Meta
 
