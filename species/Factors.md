@@ -22,10 +22,10 @@ Lifted the name and *mysteriousness* from [Eclipse Phase](http://eclipse-phase.w
 
 ## Images
 
-![alien design 2 jeff simpson kh.jpg](https://bitbucket.org/repo/R9GnAzj/images/218283065-alien%20design%202%20jeff%20simpson%20kh.jpg)
+![assets/alien design 2 jeff simpson kh.jpg](assets/alien design 2 jeff simpson kh.jpg)
 
 Jeff Simpson via [DeviantArt](https://www.deviantart.com/jeffsimpsonkh/art/Alien-design-2-129688612)
 
-![alien_spaceships_by_peterprime-d60rxhe.png](https://bitbucket.org/repo/R9GnAzj/images/1573696763-alien_spaceships_by_peterprime-d60rxhe.png)
+![assets/alien_spaceships_by_peterprime-d60rxhe.png](assets/alien_spaceships_by_peterprime-d60rxhe.png)
 
 Peter Balogh via [DeviantArt](https://www.deviantart.com/peterprime/art/Alien-Spaceships-364100162)
