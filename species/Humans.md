@@ -15,8 +15,6 @@ Humans have tenaciously held onto [the most popular Earth languages](https://en.
 ![Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Da_Vinci_Vitruve_Luc_Viatour_2.svg/480px-Da_Vinci_Vitruve_Luc_Viatour_2.svg.png "Leonardo da Vinci [Public domain]")
 
 Vituvian Man via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour2.jpg)
-
- 	space_by_fightpunch-d6akd8i.jpg
   
 ![space_by_fightpunch](https://worknate.github.io/galactic-encyclopedia/assets/space_by_fightpunch-d6akd8i.jpg)
 
