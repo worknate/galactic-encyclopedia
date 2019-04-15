@@ -22,7 +22,7 @@ Lifted the name and *mysteriousness* from [Eclipse Phase](http://eclipse-phase.w
 
 ## Images
 
-![alien design 2 jeff simpson kh](https://worknate.github.io/galactic-encyclopedia/assets/alien design 2 jeff simpson kh.jpg)
+![alien design 2 jeff simpson kh](https://worknate.github.io/galactic-encyclopedia/assets/alien_design_2_jeff_simpson_kh.jpg)
 
 Jeff Simpson via [DeviantArt](https://www.deviantart.com/jeffsimpsonkh/art/Alien-design-2-129688612)
 
