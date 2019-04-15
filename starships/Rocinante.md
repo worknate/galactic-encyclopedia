@@ -19,7 +19,7 @@ The _"Rossie"_ is a small, sleek, glossy red [Kaiser-Fiat Interstellar]() limite
 * Mass 5
 * Hardpoints 1 (1 available)
 
-Fresh from the manufacturing lines on [Atquuslaed](), the _"Rossie"_ boasts some dealer-added thrusters and unidirectional plating to provide extra levels of maneuverability and defense. The manufacture date is only a few weeks before the crew escape [Aganian](Aganian). Previously registered to "Finn" McGuffin in the [Anishna Kuhu](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3/system/opKSklCGhfFSgZUE9fVC) system under the name "Warlock."
+Fresh from the manufacturing lines on [Atquuslaed](), the _"Rossie"_ boasts some dealer-added thrusters and unidirectional plating to provide extra levels of maneuverability and defense. The manufacture date is only a few weeks before the crew escape [Aganian](../planets/Aganian). Previously registered to "Finn" McGuffin in the [Anishna Kuhu](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3/system/opKSklCGhfFSgZUE9fVC) system under the name "Warlock."
 
 ![scott-robertson-sr-portfolio-087](https://worknate.github.io/galactic-encyclopedia/assets/scott-robertson-sr-portfolio-087.jpg)
 
