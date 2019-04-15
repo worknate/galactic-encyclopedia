@@ -14,6 +14,6 @@ Here is a translator for [Tolkien-Blackspeech to English](http://physics.muni.cz
 
 ![aszihirou_pack_by_austenmengler](https://worknate.github.io/galactic-encyclopedia/assets/aszihirou_pack_by_austenmengler_d60yeoe-pre.jpg)
 
-![aszihirou___concepts_pg_1___colour_by_austenmengler](https://worknate.github.io/galactic-encyclopedia/assets/aszihirou___concepts_pg_1___colour_by_austenmengler_d60xip7-fullview.jpg)
+![aszihirou___concepts_pg_1___colour_by_austenmengler](https://worknate.github.io/galactic-encyclopedia/assets/aszihirou_concepts_pg_1_colour_by_austenmengler_d60xip7.jpg)
 
 Artwork by [Austen Mengler](https://www.deviantart.com/austenmengler/art/Aszihirou-Pack-364402382) for [War Haven](http://warhavengame.com/).
