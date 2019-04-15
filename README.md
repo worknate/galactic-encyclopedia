@@ -20,6 +20,7 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 * Grey Lilies, The - Secret society
 * Hester Unimatics - Robotics / AI
 * [Holy Roman Catholic Church](factions/Holy Roman Catholic Church)
+* [Kaiser-Fiat Interstellar](factions/Kaiser-Fiat) - Gravity/inertial tech; hovercraft, light starcraft
 * [Katalin Fra](factions/Katalin Fra)
 * Nakajima Heavy Industries - Military-industrial megacorp
 * Phoenix Corps - Mercenaries
@@ -29,10 +30,11 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Planets
 
-* [Aganian](planets/Aganian)
-* [Andophala](planets/Andophala) - Al-Sham System (0403)
-* _Gunn_
-* [Hani](planets/Hani)
+* [Atquuslaed](planets/Atquuslaed) - Berd system
+* [Aganian](planets/Aganian) - Joornei system
+* [Andophala](planets/Andophala) - Al-Sham system (0403)
+* _Gunn_ - Anishna Kuhu system
+* [Hani](planets/Hani) - Pamnaya Prekta system
 * [Earth](planets/Earth)
 
 ## Starships
