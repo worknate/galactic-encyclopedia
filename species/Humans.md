@@ -16,6 +16,6 @@ Humans have tenaciously held onto [the most popular Earth languages](https://en.
 
 Vituvian Man via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour2.jpg)
 
-![space_by_fightpunch-d6akd8i.jpg](https://bitbucket.org/repo/R9GnAzj/images/2909308264-space_by_fightpunch-d6akd8i.jpg)
+![assets/space_by_fightpunch-d6akd8i.jpg](assets/space_by_fightpunch-d6akd8i.jpg)
 
 Darren Bartley via [DeviantArt](https://www.deviantart.com/fightpunch/art/Space-380543490)
