@@ -4,8 +4,7 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Bactriani Gamma Sector
 
-* [Annotated Map](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3)
-* [List of Planets](https://sectorswithoutnumber.com/overview/UdWhNiPN5UQmCmT9ahT3/planet) in Bactriani Gamma Sector
+* Sectors Without Number [Annotated Map](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3)
 
 ## Species
 
@@ -20,8 +19,8 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 * Collapsus - French anarchists (active on Leiropi)
 * Grey Lilies, The - Secret society
 * Hester Unimatics - Robotics / AI
-* [Holy Roman Catholic Church](Holy Roman Catholic Church)
-* [Katalin Fra](Katalin Fra)
+* [Holy Roman Catholic Church](factions/Holy Roman Catholic Church)
+* [Katalin Fra](factions/Katalin Fra)
 * Nakajima Heavy Industries - Military-industrial megacorp
 * Phoenix Corps - Mercenaries
 * Three Fingers, The - Elgyem-worshipping cultists
@@ -42,8 +41,12 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Persons of Interest
 
-* Finnian McGuffin (deceased) - Son-in-law of Neela Patil, CFO of [Katalin Fra](Katalin Fra)
-* James Cook (deceased)
+* Timofey Valentinovich - Powerful crime boss, [Dnepr](planets/Andophala)
+
+## In Memoriam
+
+* Finnian McGuffin (deceased) - Son-in-law of Neela Patil, CFO of [Katalin Fra](factions/Katalin Fra)
+* James Cook (deceased) - Player character, gunslinger, smuggler
 
 ## Meta
 
