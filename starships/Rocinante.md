@@ -1,6 +1,6 @@
 #### The Rocinante
 
-The _"Rossie"_ is a small, sleek, glossy red [Kaiser-Fiat Interstellar]() limited edition, just over 40 meters long. The ship relies on small size to avoid detection and speed and maneuverability for defense. There are four staterooms; the largest is roomy, with an oversized bed and plenty of closet space; the smaller rooms each have three high-quality, fold-away bunks with integral lockers. Each stateroom has its own facilities.
+The _"Rossie"_ is a small, sleek, glossy red [Kaiser-Fiat Interstellar](../factions/Kaiser-Fiat) limited edition, just over 40 meters long. The ship relies on small size to avoid detection and speed and maneuverability for defense. There are four staterooms; the largest is roomy, with an oversized bed and plenty of closet space; the smaller rooms each have three high-quality, fold-away bunks with integral lockers. Each stateroom has its own facilities.
 
 * Shuttle (Class: Fighter)
 * Atmospheric configuration (5k, 1 mass)
@@ -19,7 +19,7 @@ The _"Rossie"_ is a small, sleek, glossy red [Kaiser-Fiat Interstellar]() limite
 * Mass 5
 * Hardpoints 1 (1 available)
 
-Fresh from the manufacturing lines on [Atquuslaed](), the _"Rossie"_ boasts some dealer-added thrusters and unidirectional plating to provide extra levels of maneuverability and defense. The manufacture date is only a few weeks before the crew escape [Aganian](../planets/Aganian). Previously registered to "Finn" McGuffin in the [Anishna Kuhu](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3/system/opKSklCGhfFSgZUE9fVC) system under the name "Warlock."
+Fresh from the manufacturing lines on [Atquuslaed](../planets/Atquuslaed), the _"Rossie"_ boasts some dealer-added thrusters and unidirectional plating to provide extra levels of maneuverability and defense. The manufacture date is only a few weeks before the crew escape [Aganian](../planets/Aganian). Previously registered to "Finn" McGuffin in the [Anishna Kuhu](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3/system/opKSklCGhfFSgZUE9fVC) system under the name "Warlock."
 
 ![scott-robertson-sr-portfolio-087](https://worknate.github.io/galactic-encyclopedia/assets/scott-robertson-sr-portfolio-087.jpg)
 
