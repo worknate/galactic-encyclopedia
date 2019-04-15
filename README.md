@@ -50,9 +50,9 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Meta
 
-* [Stars Without Number Rulebook](https://bitbucket.org/hraefn/galactic-encyclopedia/src/master/StarsWithoutNumberRevised-FreeEdition-122917.pdf) (Free Edition)
+* [Stars Without Number Rulebook](https://worknate.github.io/galactic-encyclopedia/assets/StarsWithoutNumberRevised-FreeEdition-122917.pdf) (Free Edition)
 * [House Rules](House Rules)
-* Printable / Editable [Character Sheet](https://bitbucket.org/hraefn/galactic-encyclopedia/src/master/StarsWithoutNumberRevised-Character_Sheet-Form_Fillable.pdf)
+* Printable / Editable [Character Sheet](https://worknate.github.io/galactic-encyclopedia/assets/StarsWithoutNumberRevised-Character_Sheet-Form_Fillable.pdf)
 * Many other [Character Sheets](https://docs.google.com/spreadsheets/d/1lUAl5TOV3jtnpvlqBLC7sJf52buwKerLeBkcSbIefJA/edit#gid=1738061576) and other Stars Without Number resources
 
 ## Footnotes
