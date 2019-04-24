@@ -1,4 +1,8 @@
+## Andophala
+
 **Andophala** (née Al-Sham XXII) is the sole Terran-sized planet in the Al-Sham system. Andophala is a rare example of a planet colonized simultaneously by multiple political entities. There are three nation-colonies; Dnepr, Arslan Tash, and Mnarani. The planet is very Earth-like, with a large number of small- and medium-sized continents divided by numerous interconnected oceans. Natural resources are abundant, and the native biosphere is advanced and diverse.
+
+### Dnepr
 
 **Kosmotras** is the capital of **Dnepr**, a mountainous island-nation situated in the tropics of Andophala. Dnepr is not a large nation, but controls roughly a third of the surface of Andophala as part of the original colonization treaty. Most of this surface is covered by ocean.
 
