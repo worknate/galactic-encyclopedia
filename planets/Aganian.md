@@ -6,7 +6,7 @@
 * Population: 250 million Humans
 * Tech Level: TL4
 
-*Aganian* is a prosperous research, industrial, and agricultural center in the [Jurarnur](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3/system/xq3hpk1aPaupQgclydEE) system (0405) with a number of large cities supporting active, cosmopolitan starports. Most of the population is centered on the large southern continent *Khurasia*. A number of small shipyards are in operation. The local government has a good reputation for fair taxation, a balanced legislative and judicial body, and minimal corruption. Military and police forces are sharp and well equipped.
+*Aganian* is a prosperous research, industrial, and agricultural center in the [Joornei](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3/system/xq3hpk1aPaupQgclydEE) system (0405) with a number of large cities supporting active, cosmopolitan starports. Most of the population is centered on the large southern continent *Khurasia*. A number of small shipyards are in operation. The local government has a good reputation for fair taxation, a balanced legislative and judicial body, and minimal corruption. Military and police forces are sharp and well equipped.
 
 ## Faction Activity
 
