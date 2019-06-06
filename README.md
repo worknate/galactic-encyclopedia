@@ -40,10 +40,14 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 ## Starships
 
 * [The Rocinante](starships/Rocinante)
+* [The Meteor](starships/Meteor)
+* [AM Damascus](starships/AMDamascus), Joornei System Defense Forces
 
 ## Persons of Interest
 
 * Timofey Valentinovich - Powerful crime boss, [Dnepr](planets/Andophala)
+* Matthew Smith - Pheonix Corp contractor, Security, [Dnepr](planets/Andophala) - Billy's friend
+* Captain Howard Winston - Fleet Commander, [AM Damascus](starships/AMDamascus), Joornei System Defense Forces
 
 ## In Memoriam
 
