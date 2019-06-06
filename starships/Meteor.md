@@ -19,3 +19,8 @@
 * Power: 8/10 ( free)
 * Mass: 4/15 ( free)
 * Crew: up to 6
+
+
+![scott-robertson-blast_02](https://worknate.github.io/galactic-encyclopedia/assets/blast_02.jpg)
+
+Artwork from [BLAST: spaceship sketches and renderings](https://www.amazon.com/BLAST-spaceship-renderings-Scott-Robertson/dp/1933492546]) by Scott Robertson, Daniel Gardner, Annis Naeem
