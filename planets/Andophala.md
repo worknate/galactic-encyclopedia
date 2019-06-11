@@ -82,11 +82,13 @@ Kosmotras is known as a wealthy tech hub, with a focus on cybernetic enhancement
 
 **Ras Mishab** is the capital of **Arslan Tash**, a large nation of fertile plains in the northern hemisphere of Adophala. The eastern border is a wilderness frontier lined with small mountains, marking both the political boundary and the transition from grasslands to the sub-tropical temperate forests of northern Dnepr.
 
-Arslan Tash is the bread-basket of Adophala, and exports several valuable, exotic fruits and vegetables to other systems in the sector. The government subsidizes well-regarded research universities, with a focus on biologics, agriculture, and the arts.
+Arslan Tash is the bread-basket of Adophala, and exports several valuable, exotic fruits and vegetables to other systems in the sector. The government subsidizes well-regarded research universities, with a focus on biologics, agriculture, and the arts. The tech level is generally TL4.
 
 A theocracy, Arslan Tash is ruled by Caliph, selected by the clergy, nominally bound by a "divine" constitution strongly influenced by a post-Scream flavor of Islamic law. The nation has found some measure of success economically despite repression of women and religious and sexual freedoms.
 
-Arslan Tash has a well-equipped aerospace force, with a ground force that is better suited to security and logistics. In their recent war with Dnepr, they have managed to gain completely atmosphere-superiority, effectively creating a blockade. The third planetary nation, Mnarani, remains officially neutral in the conflict, but also suffers under this umbrella.
+Arslan Tash has a well-equipped aerospace force, with ground forces better suited to security and logistics. In their recent war with Dnepr, they have managed to gain complete air-superiority, effectively creating an atmospheric blockade. The third planetary nation, Mnarani, remains officially neutral in the conflict, but also suffers under this umbrella.
+
+There is one starport, located on the outskirts of Ras Mishab, serving both the small Arslan Tash space navy and commercial traffic. Several airbases are located throughout the countryside.
 
 ### Politics
 * Political Structure: oligarchy - theocracy
