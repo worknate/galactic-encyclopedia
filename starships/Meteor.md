@@ -1,4 +1,8 @@
-* Hull: Free Merchant
+## The "Meteor"
+
+This starship was stolen from Timofey Valentinovich by The Four on March 2, 3200
+
+* Hull: Free Merchant (Frigate class)
 * HP: 20
 * AC: 14
 * Armor: 2
@@ -11,13 +15,16 @@
     * Atmospheric configuration (Mass 2)
     * Ship's locker
 * Mods
+    * Drive-3 Upgrade (Power 4, Mass 4)
     * Emergency Thruster Boost (+2 Speed for 3 rounds / encounter)
     * Engine Optimization (Speed +1)
-    * Power Trunk Streamlining (Mass 3, Power +6)
-    * "cloaking"
-    * "chameleon unit"
-* Power: 8/10 ( free)
-* Mass: 4/15 ( free)
+    * Power Trunk Streamlining (Mass 2, Power +4)
+    * Q-Ship Cladding (weapons hidden when not deployed)
+    * Low Emissions (difficult to detect +2)
+    * Sensor mask ("chameleon unit" - Mass 1)
+* Cargo: 40 tons
+* Power: 12/10+4 (2 free)
+* Mass: 13/15 (2 free)
 * Crew: up to 6
 
 
