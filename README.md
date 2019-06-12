@@ -5,6 +5,7 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 ## Bactriani Gamma Sector
 
 * Sectors Without Number [Annotated Map](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3)
+* [Timeline](Timeline) of events following The Four
 
 ## Species
 
