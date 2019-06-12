@@ -1,4 +1,4 @@
-#### The Rocinante
+## The Rocinante
 
 The _"Rossie"_ is a small, sleek, glossy red [Kaiser-Fiat Interstellar](../factions/Kaiser-Fiat) limited edition, just over 40 meters long. The ship relies on small size to avoid detection and speed and maneuverability for defense. There are four staterooms; the largest is roomy, with an oversized bed and plenty of closet space; the smaller rooms each have three high-quality, fold-away bunks with integral lockers. Each stateroom has its own facilities.
 
