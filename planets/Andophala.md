@@ -2,7 +2,7 @@
 
 * Atmosphere: Breatheable mix
 * Temperature: Variable temperate-to-warm
-* Biosphere: Human-miscibl
+* Biosphere: Human-miscible
 * Population: 40 million Humans
 * Tech Level: TL4
 
