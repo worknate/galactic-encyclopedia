@@ -11,7 +11,7 @@
 ## Faction Activity
 
 * _Hester Unimatics_ is the largest single employer.
-* [The Church](Holy Roman Catholic Church) has an active diocese. Pax Romana is limited to a ceremonial detachment of Swiss Guard.
+* [The Church](factions/Holy Roman Catholic Church) has an active diocese. Pax Romana is limited to a ceremonial detachment of Swiss Guard.
 
 ## Psionic Academies
 
@@ -19,4 +19,4 @@ Aganian is one of the few planets that have managed to redevelop the basics of p
 
 ## Events of February 20, 3200
 
-Aganian was surprised by an [Elgyem](Elgyem) carrier strike force around 22:00 KMT. Most active patrol craft were disabled or destroyed. The primary orbital station _Boris_ was lost with all hands. Every major starport was bombarded from orbit, and any communication center larger than Class IV was either attacked by strike fighters or seized by marines. Anti-ship batteries and ground forces fought valiantly, but the deep space station _Bole 4_ lost all communications the next day.
+Aganian was surprised by an [Elgyem](Anrbzyv-udaz-gavr) carrier strike force around 22:00 KMT. Most active patrol craft were disabled or destroyed. The primary orbital station _Boris_ was lost with all hands. Every major starport was bombarded from orbit, and any communication center larger than Class IV was either attacked by strike fighters or seized by marines. Anti-ship batteries and ground forces fought valiantly, but the deep space station _Bole 4_ lost all communications the next day.
