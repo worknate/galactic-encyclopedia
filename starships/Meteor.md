@@ -1,6 +1,6 @@
 ## The "Meteor"
 
-This starship was stolen from Timofey Valentinovich by The Four on March 2, 3200
+This starship was stolen from Timofey Valentinovich by The Four on March 1, 3200. A heavily-modified Nakajima _Howler_ platform, she is capable of evading detection at a distance, and hiding in plain sight within either scanner or visual range. The chameleon unit is recognizable as a hologram within 50 meters or so.
 
 * Hull: Free Merchant (Frigate class)
 * HP: 20
@@ -21,9 +21,10 @@ This starship was stolen from Timofey Valentinovich by The Four on March 2, 3200
     * Power Trunk Streamlining (Mass 2, Power +4)
     * Q-Ship Cladding (weapons hidden when not deployed)
     * Low Emissions (difficult to detect +2)
-    * Sensor mask ("chameleon unit" - Mass 1)
+    * Sensor mask (Power 2)
+    * "Chameleon Unit" (projects a holographic image to extend Sensor Mask into visual range)
 * Cargo: 40 tons
-* Power: 12/10+4 (2 free)
+* Power: 14/10+4
 * Mass: 13/15 (2 free)
 * Crew: up to 6
 
