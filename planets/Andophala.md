@@ -1,5 +1,11 @@
 # Andophala
 
+* Atmosphere: Breatheable mix
+* Temperature: Variable temperate-to-warm
+* Biosphere: Human-miscibl
+* Population: 40 million Humans
+* Tech Level: TL4
+
 *Andophala* (née Al-Sham XXII) is the sole Terran-sized planet in the Al-Sham system. Andophala is a rare example of a planet colonized simultaneously by multiple political entities. There are three nation-colonies; Dnepr, Arslan Tash, and Mnarani. The planet is very Earth-like, with a large number of small- and medium-sized continents divided by numerous interconnected oceans. Natural resources are abundant, and the native biosphere is advanced and diverse.
 
 ## Dnepr
