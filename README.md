@@ -49,6 +49,7 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 * Timofey Valentinovich - Powerful crime boss, [Dnepr](planets/Andophala)
 * Matthew Smith - Pheonix Corp contractor, Security, [Dnepr](planets/Andophala) - Billy's friend
 * Captain Howard Winston - Fleet Commander, [AM Damascus](starships/AMDamascus), Joornei System Defense Forces
+* Lieutenant Jonas Stroud - Unit Commander, Marine Force Recon, Joornei System Defense Forces
 
 ## In Memoriam
 
