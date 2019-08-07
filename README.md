@@ -4,7 +4,8 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Bactriani Gamma Sector
 
-* Sectors Without Number [Annotated Map](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3)
+* Nate's [Campaign Sector Map](starmap/index.html)
+* Sectors Without Number [Annotated Map](https://sectorswithoutnumber.com/sector/UdWhNiPN5UQmCmT9ahT3) (old map)
 * [Timeline](Timeline) of events following The Four
 
 ## Species
