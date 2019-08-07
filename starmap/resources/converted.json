@@ -1,0 +1,1377 @@
+{
+    "sector": {
+        "name": "Bactriani Gamma",
+        "columns": 11,
+        "rows": 9
+    },
+    "systems": [
+        {
+            "name": "Nima",
+            "x": 6,
+            "y": 5,
+            "stars": [
+                {
+                    "name": "Nima α",
+                    "classification": "G2V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Solo",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "engineered",
+                    "techLevel": "TL5",
+                    "satellites": [
+                        {
+                            "name": "Goba",
+                            "type": "orbitalRuin"
+                        },
+                        {
+                            "name": "Chinju 5",
+                            "type": "refuelingStation"
+                        },
+                        {
+                            "name": "Gjaflau",
+                            "type": "moon",
+                            "satellites": [
+                                {
+                                    "name": "Li Fan 2",
+                                    "type": "orbitalRuin"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Saheki 5",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Pamnaya Prekta",
+            "x": 4,
+            "y": 4,
+            "stars": [
+                {
+                    "name": "Pamnaya Prekta α",
+                    "classification": "K0V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Hani",
+                    "class": "terran",
+                    "atmosphere": "airlessThin",
+                    "temperature": "frozen",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL1",
+                    "satellites": [
+                        {
+                            "name": "Ajon 9",
+                            "type": "orbitalRuin"
+                        },
+                        {
+                            "name": "Livny 3",
+                            "type": "refuelingStation"
+                        },
+                        {
+                            "name": "Eurynam",
+                            "type": "moon",
+                            "satellites": [
+                                {
+                                    "name": "Sharonov",
+                                    "type": "orbitalRuin"
+                                }
+                            ],
+                            "bases": [
+                                {
+                                    "name": "Aveiro 3",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Koffa",
+                            "type": "moon",
+                            "bases": [
+                                {
+                                    "name": "Northport 6",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        }
+                    ],
+                    "bases": [
+                        {
+                            "name": "Kunowsky",
+                            "type": "researchBase"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Freedom 7",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Ecou",
+            "x": 3,
+            "y": 3,
+            "stars": [
+                {
+                    "name": "Ecou α",
+                    "classification": "F9V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Kameeja",
+                    "class": "terran",
+                    "atmosphere": "inert",
+                    "temperature": "temperate",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL2",
+                    "bases": [
+                        {
+                            "name": "Secchi 2",
+                            "type": "researchBase"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "29 Alvin",
+                    "type": "asteroidBelt",
+                    "satellites": [
+                        {
+                            "name": "Harris 2",
+                            "type": "refuelingStation"
+                        }
+                    ],
+                    "bases": [
+                        {
+                            "name": "Dersu 5",
+                            "type": "asteroidBase"
+                        },
+                        {
+                            "name": "Sripur 5",
+                            "type": "asteroidBase"
+                        }
+                    ]
+                },
+                {
+                    "name": "Wau 3",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Bizoglos",
+            "x": 8,
+            "y": 2,
+            "stars": [
+                {
+                    "name": "Bizoglos α",
+                    "classification": "M7V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Euryale XVI",
+                    "class": "terran",
+                    "atmosphere": "thick",
+                    "temperature": "temperate",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL4",
+                    "satellites": [
+                        {
+                            "name": "Janssen 5",
+                            "type": "refuelingStation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Thurid",
+            "x": 6,
+            "y": 7,
+            "stars": [
+                {
+                    "name": "Thurid α",
+                    "classification": "WC3III"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Chippe",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL2"
+                },
+                {
+                    "name": "Admenes",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableWarm",
+                    "biosphere": "none",
+                    "techLevel": "TL3",
+                    "satellites": [
+                        {
+                            "name": "Hrefna",
+                            "type": "moon",
+                            "bases": [
+                                {
+                                    "name": "Thermia 5",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "(21)  Uzer",
+                    "type": "asteroidBelt",
+                    "bases": [
+                        {
+                            "name": "Nazca 6",
+                            "type": "asteroidBase"
+                        },
+                        {
+                            "name": "Gol 6",
+                            "type": "researchBase"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tem 1",
+                    "type": "deepSpaceStation"
+                },
+                {
+                    "name": "Tak 3",
+                    "type": "refuelingStation"
+                },
+                {
+                    "name": "Magadi",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Berd",
+            "x": 3,
+            "y": 2,
+            "stars": [
+                {
+                    "name": "Berd α",
+                    "classification": "M3V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Atquuslaed",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableWarm",
+                    "biosphere": "none",
+                    "techLevel": "TL4"
+                },
+                {
+                    "name": "Berd II",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Johannesburg Mine Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                },
+                {
+                    "name": "Berd III",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Lismore Mine Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hild",
+            "x": 6,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "Hild α",
+                    "classification": "G4V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Thora",
+                    "class": "terran",
+                    "atmosphere": "thick",
+                    "temperature": "variableWarm",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL4",
+                    "satellites": [
+                        {
+                            "name": "Udzha 9",
+                            "type": "refuelingStation"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Brush 5",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Kinirgi Ekta",
+            "x": 7,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "Kinirgi Ekta α",
+                    "classification": "C3III"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Katalin Fra",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL4",
+                    "satellites": [
+                        {
+                            "name": "Aveiro",
+                            "type": "orbitalRuin"
+                        },
+                        {
+                            "name": "Raga 4",
+                            "type": "refuelingStation"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rafquat",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL3",
+                    "satellites": [
+                        {
+                            "name": "Nybyen 3",
+                            "type": "refuelingStation"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kinirgi Ekta III",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Gastre",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Tarsus 3",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Dion",
+            "x": 9,
+            "y": 1,
+            "stars": [
+                {
+                    "name": "Dion α",
+                    "classification": "B4V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Bergunn",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableWarm",
+                    "biosphere": "none",
+                    "techLevel": "TL3",
+                    "satellites": [
+                        {
+                            "name": "Tuscaloosa",
+                            "type": "refuelingStation"
+                        },
+                        {
+                            "name": "Cyme",
+                            "type": "moon"
+                        },
+                        {
+                            "name": "Valaskaki",
+                            "type": "moon",
+                            "satellites": [
+                                {
+                                    "name": "Pica 5",
+                                    "type": "orbitalRuin"
+                                }
+                            ],
+                            "bases": [
+                                {
+                                    "name": "Kantang 5",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Oodnadatta 1",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Puillan",
+            "x": 1,
+            "y": 8,
+            "stars": [
+                {
+                    "name": "Puillan α",
+                    "classification": "G5V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Foni",
+                    "class": "terran",
+                    "atmosphere": "thick",
+                    "temperature": "burning",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL3"
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Kuba 6",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Aguerpa",
+            "x": 10,
+            "y": 2,
+            "stars": [
+                {
+                    "name": "Aguerpa α",
+                    "classification": "DQ6"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Bihoa Baa",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "cold",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL3",
+                    "satellites": [
+                        {
+                            "name": "Airy-0 6",
+                            "type": "orbitalRuin"
+                        },
+                        {
+                            "name": "Thurid",
+                            "type": "moon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Al-Hash",
+                    "class": "terran",
+                    "atmosphere": "airlessThin",
+                    "temperature": "temperate",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL2",
+                    "satellites": [
+                        {
+                            "name": "Choyr 3",
+                            "type": "orbitalRuin"
+                        }
+                    ],
+                    "bases": [
+                        {
+                            "name": "Meget 6",
+                            "type": "researchBase"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Nicholson 5",
+                    "type": "deepSpaceStation"
+                },
+                {
+                    "name": "Bond 7",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Edonis",
+            "x": 4,
+            "y": 7,
+            "stars": [
+                {
+                    "name": "Edonis α",
+                    "classification": "M7V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Dores",
+                    "class": "terran",
+                    "atmosphere": "airlessThin",
+                    "temperature": "variableCold",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL4",
+                    "satellites": [
+                        {
+                            "name": "Hit 9",
+                            "type": "orbitalRuin"
+                        }
+                    ],
+                    "bases": [
+                        {
+                            "name": "Santa Maria 8",
+                            "type": "researchBase"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Thorhil",
+            "x": 2,
+            "y": 3,
+            "stars": [
+                {
+                    "name": "Thorhil α",
+                    "classification": "K4V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Hallvei",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableWarm",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL4"
+                },
+                {
+                    "name": "Thorhil II",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Shawnee",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "016 Cadiz",
+                    "type": "asteroidBelt",
+                    "bases": [
+                        {
+                            "name": "Bole 6",
+                            "type": "asteroidBase"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lomela 2",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Amatifa",
+            "x": 1,
+            "y": 1,
+            "stars": [
+                {
+                    "name": "Amatifa α",
+                    "classification": "M4V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Sthemio",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableCold",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL3",
+                    "satellites": [
+                        {
+                            "name": "Utan",
+                            "type": "refuelingStation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chippe",
+            "x": 1,
+            "y": 5,
+            "stars": [
+                {
+                    "name": "Chippe α",
+                    "classification": "DQ2"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Wassif",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableCold",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL4"
+                },
+                {
+                    "name": "Aninzainis",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableWarm",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL2",
+                    "satellites": [
+                        {
+                            "name": "Mitchel 5",
+                            "type": "orbitalRuin"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chippe III",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Huggins",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chippe IV",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Kumak Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chippe V",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Henbury Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Fontana",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Al-Sham",
+            "x": 4,
+            "y": 3,
+            "stars": [
+                {
+                    "name": "Al-Sham α",
+                    "classification": "M1V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Andophala XXII",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableWarm",
+                    "biosphere": "remnant",
+                    "techLevel": "TL4",
+                    "satellites": [
+                        {
+                            "name": "Tombe 6",
+                            "type": "orbitalRuin"
+                        },
+                        {
+                            "name": "Jeans 9",
+                            "type": "refuelingStation"
+                        }
+                    ],
+                    "bases": [
+                        {
+                            "name": "Henry Moore 1",
+                            "type": "researchBase"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sha Anisanj",
+            "x": 2,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "Sha Anisanj α",
+                    "classification": "G5V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Albelan",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableCold",
+                    "biosphere": "none",
+                    "techLevel": "TL4"
+                }
+            ]
+        },
+        {
+            "name": "Liza",
+            "x": 5,
+            "y": 6,
+            "stars": [
+                {
+                    "name": "Liza α",
+                    "classification": "F4V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Valfdis",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL4"
+                },
+                {
+                    "name": "Molario",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "microbial",
+                    "techLevel": "TL4"
+                },
+                {
+                    "name": "Liza III",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Milna Mine",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pitthon",
+            "x": 5,
+            "y": 8,
+            "stars": [
+                {
+                    "name": "Pitthon α",
+                    "classification": "K8V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Sig",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "none",
+                    "techLevel": "TL4"
+                },
+                {
+                    "name": "Nacimne",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL4"
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Coblentz",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Suha",
+            "x": 5,
+            "y": 2,
+            "stars": [
+                {
+                    "name": "Suha α",
+                    "classification": "K0V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Calia",
+                    "class": "terran",
+                    "atmosphere": "thick",
+                    "temperature": "frozen",
+                    "biosphere": "none",
+                    "techLevel": "TL4",
+                    "satellites": [
+                        {
+                            "name": "Chaman 3",
+                            "type": "orbitalRuin"
+                        },
+                        {
+                            "name": "Sangar 8",
+                            "type": "refuelingStation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Popolos",
+            "x": 8,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "Popolos α",
+                    "classification": "K6III"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Leiropi",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL0",
+                    "bases": [
+                        {
+                            "name": "Bole 5",
+                            "type": "researchBase"
+                        }
+                    ]
+                },
+                {
+                    "name": "Popolos II",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Gulch Mine Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "La Paz 9",
+                    "type": "deepSpaceStation"
+                },
+                {
+                    "name": "Bogia 5",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Tolantz Urietal",
+            "x": 1,
+            "y": 3,
+            "stars": [
+                {
+                    "name": "Tolantz Urietal α",
+                    "classification": "S5III"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Gudrid",
+                    "class": "terran",
+                    "atmosphere": "corrosive",
+                    "temperature": "temperate",
+                    "biosphere": "engineered",
+                    "techLevel": "TL1",
+                    "satellites": [
+                        {
+                            "name": "Alminge Laminio",
+                            "type": "moon",
+                            "bases": [
+                                {
+                                    "name": "Boulia 1",
+                                    "type": "moonBase"
+                                },
+                                {
+                                    "name": "Ins",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tolantz Urietal II",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Igal Mine",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tolantz Urietal III",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Canberra Mine Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Pylos 5",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Valiu",
+            "x": 10,
+            "y": 6,
+            "stars": [
+                {
+                    "name": "Valiu α",
+                    "classification": "M6V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Frid",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "none",
+                    "techLevel": "TL3"
+                },
+                {
+                    "name": "Valiu II",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Jorn Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Kem 6",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Tsatsos",
+            "x": 3,
+            "y": 5,
+            "stars": [
+                {
+                    "name": "Tsatsos α",
+                    "classification": "K5V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Mayrifa",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "remnant",
+                    "techLevel": "TL4",
+                    "satellites": [
+                        {
+                            "name": "Rallis",
+                            "type": "moon",
+                            "bases": [
+                                {
+                                    "name": "Kingston 5",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "(8349)  Labria",
+                    "type": "asteroidBelt",
+                    "bases": [
+                        {
+                            "name": "Blunck 7",
+                            "type": "asteroidBase"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Anishna Kuhu",
+            "x": 10,
+            "y": 3,
+            "stars": [
+                {
+                    "name": "Anishna Kuhu α",
+                    "classification": "A5III"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Purasi Sha XV",
+                    "class": "terran",
+                    "atmosphere": "invasive",
+                    "temperature": "temperate",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL1",
+                    "bases": [
+                        {
+                            "name": "Chinook 7",
+                            "type": "researchBase"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gunn",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "variableCold",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL4"
+                },
+                {
+                    "name": "Plansul",
+                    "class": "terran",
+                    "atmosphere": "airlessThin",
+                    "temperature": "cold",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL4",
+                    "satellites": [
+                        {
+                            "name": "Hertes",
+                            "type": "moon",
+                            "satellites": [
+                                {
+                                    "name": "Sian 1",
+                                    "type": "refuelingStation"
+                                }
+                            ],
+                            "bases": [
+                                {
+                                    "name": "Podor 1",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anishna Kuhu IV",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Mellish Mine Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                },
+                {
+                    "name": "Anishna Kuhu V",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Pursat",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Galilaei 8",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Berd",
+            "x": 6,
+            "y": 2,
+            "stars": [
+                {
+                    "name": "Berd α",
+                    "classification": "K2V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Estelesoce",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "humanMiscible",
+                    "techLevel": "TL2"
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Meget 5",
+                    "type": "researchBase"
+                }
+            ]
+        },
+        {
+            "name": "Liz",
+            "x": 4,
+            "y": 2,
+            "stars": [
+                {
+                    "name": "Liz α",
+                    "classification": "F4V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Phyleut",
+                    "class": "terran",
+                    "atmosphere": "inert",
+                    "temperature": "temperate",
+                    "biosphere": "microbial",
+                    "techLevel": "TL2",
+                    "satellites": [
+                        {
+                            "name": "Ersoveredi",
+                            "type": "moon",
+                            "bases": [
+                                {
+                                    "name": "Hit 2",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anganagyr",
+                            "type": "moon",
+                            "bases": [
+                                {
+                                    "name": "Surt 2",
+                                    "type": "moonBase"
+                                },
+                                {
+                                    "name": "Zutphen 2",
+                                    "type": "researchBase"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Niddhar Gayanta",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "immiscible",
+                    "techLevel": "TL2",
+                    "bases": [
+                        {
+                            "name": "Ostrov 9",
+                            "type": "researchBase"
+                        }
+                    ]
+                },
+                {
+                    "name": "Liz III",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Dush",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Rypin 7",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Joornei",
+            "x": 5,
+            "y": 5,
+            "stars": [
+                {
+                    "name": "Joornei α",
+                    "classification": "K3V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Aganian",
+                    "class": "terran",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "microbial",
+                    "techLevel": "TL4"
+                },
+                {
+                    "name": "Joornei II",
+                    "class": "jovian",
+                    "satellites": [
+                        {
+                            "name": "Tombaugh Project",
+                            "type": "gasGiantMine"
+                        }
+                    ]
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Bole 4",
+                    "type": "deepSpaceStation"
+                }
+            ]
+        },
+        {
+            "name": "P589759",
+            "x": 9,
+            "y": 2,
+            "stars": [
+                {
+                    "name": "P589759",
+                    "classification": "blackhole"
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Kontum 8",
+                    "type": "refuelingStation"
+                }
+            ]
+        },
+        {
+            "name": "Xmu 1-9",
+            "x": 8,
+            "y": 3,
+            "stars": [
+                {
+                    "name": "Xmu 1-9",
+                    "classification": "blackhole"
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Downe 3",
+                    "type": "deepSpaceStation"
+                }
+            ]
+        },
+        {
+            "name": "OFCV 740618",
+            "x": 10,
+            "y": 5,
+            "stars": [
+                {
+                    "name": "OFCV 740618",
+                    "classification": "blackhole"
+                }
+            ]
+        },
+        {
+            "name": "YD 26021",
+            "x": 9,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "YD 26021",
+                    "classification": "blackhole"
+                }
+            ],
+            "objects": [
+                {
+                    "name": "Rauna",
+                    "type": "deepSpaceStation"
+                },
+                {
+                    "name": "Singa 7",
+                    "type": "orbitalRuin"
+                }
+            ]
+        }
+    ]
+}

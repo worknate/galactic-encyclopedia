@@ -1,0 +1,178 @@
+{
+    "sector": {
+        "name": "Mock Data",
+        "columns": 4,
+        "rows": 2
+    },
+    "systems": [
+        {
+            "name": "Sol",
+            "x": 0,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "Sol",
+                    "classification": "G2V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Mercury",
+                    "type": "burning",
+                    "size": "subterran"
+                },
+                {
+                    "name": "Venus",
+                    "type": "corrosive",
+                    "size": "terran"
+                },
+                {
+                    "name": "Earth",
+                    "type": "temperate",
+                    "size": "terran",
+                    "techLevel": "TL3"
+                },
+                {
+                    "name": "Mars",
+                    "type": "inert",
+                    "size": "terran"
+                },
+                {
+                    "name": "Jupiter",
+                    "type": "inert",
+                    "size": "jovian"
+                },
+                {
+                    "name": "Saturn",
+                    "type": "inert",
+                    "size": "jovian"
+                },
+                {
+                    "name": "Uranus",
+                    "type": "variableCold",
+                    "size": "neptunian"
+                },
+                {
+                    "name": "Neptune",
+                    "type": "variableCold",
+                    "size": "neptunian"
+                },
+                {
+                    "name": "Pluto",
+                    "type": "airless",
+                    "size": "object"
+                }
+            ],
+            "objects": []
+        },
+        {
+            "name": "V404 Cygni",
+            "x": 0,
+            "y": 1,
+            "stars": [
+                {
+                    "name": "V404 Cygni",
+                    "classification": "K3III"
+                },
+                {
+                    "name": "V404 Cygni",
+                    "classification": "blackhole"
+                }
+            ],
+            "planets": [],
+            "objects": []
+        },
+        {
+            "name": "Kepler-42",
+            "x": 1,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "Kepler-42",
+                    "classification": "M5V"
+                }
+            ],
+            "planets": [],
+            "objects": []
+        },
+        {
+            "name": "Alpha Centauri",
+            "x": 1,
+            "y": 1,
+            "stars": [
+                {
+                    "name": "Alpha Centauri A",
+                    "classification": "G2V"
+                },
+                {
+                    "name": "Alpha Centauri B",
+                    "classification": "K1V"
+                },
+                {
+                    "name": "Proxima Centauri",
+                    "classification": "M5V"
+                }
+            ],
+            "planets": [
+                {
+                    "name": "Proxima Centauri b",
+                    "type": "variableCold",
+                    "size": "terran"
+                }
+            ],
+            "objects": []
+        },
+        {
+            "name": "Betelgeuse",
+            "x": 2,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "Betelgeuse",
+                    "classification": "M2Ia"
+                }
+            ],
+            "planets": [],
+            "objects": []
+        },
+        {
+            "name": "Gliese 752",
+            "x": 2,
+            "y": 1,
+            "stars": [
+                {
+                    "name": "Gliese 752",
+                    "classification": "m2V"
+                }
+            ],
+            "planets": [],
+            "objects": []
+        },
+        {
+            "name": "Sirius",
+            "x": 3,
+            "y": 0,
+            "stars": [
+                {
+                    "name": "Sirius",
+                    "classification": "a1v"
+                }
+            ],
+            "planets": [],
+            "objects": []
+        },
+        {
+            "name": "VY Canis Majoris",
+            "x": 3,
+            "y": 1,
+            "stars": [
+                {
+                    "name": "VY Canis Majoris",
+                    "classification": "m2ia"
+                }
+            ],
+            "planets": [],
+            "objects": []
+        }
+    ]
+}
