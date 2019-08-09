@@ -1,6 +1,6 @@
 ## The "Meteor"
 
-This starship was stolen from Timofey Valentinovich by The Four on March 1, 3200. A heavily-modified Nakajima _Howler_ platform, she is capable of evading detection at a distance, and hiding in plain sight within either scanner or visual range. The chameleon unit is recognizable as a hologram within 50 meters or so.
+This starship was stolen from Timofey Valentinovich by The Four on March 1, 3200. A heavily-modified Nakajima _Howler_ platform, she is capable of evading detection at a distance, and hiding in plain sight within either scanner or visual range. The chameleon unit must look like something (another ship, a meteor, a building) as it can only simulate reflected light, not allow light to pass through. The cameleon unit is recognizable as a hologram within 50 meters or so.
 
 * Hull: Free Merchant (Frigate class)
 * HP: 20
