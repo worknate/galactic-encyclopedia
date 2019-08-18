@@ -1,8 +1,8 @@
 ## Gudrid
 
-Gudrid is an outpost planet in the Tolantz Urietal system (0103). The atmosphere is mild in temperate but caustic; the only human presence consists of a domed mining colony. The meager profits from raw metal ores combined with charity from nearby sectors keeps the population alive.
+Gudrid is a rocky planet in the Tolantz Urietal system (0103). The heavy atmosphere is caustic; the only human presence consists of a domed mining colony. The meager profits from raw metal ores combined with charity from nearby sectors keeps the population alive.
 
-The situation is even worse on the mining operations on the gas giants in the system; cramped quarters, extreme temperatures, leaky radiation shiedling and periodic gravity flunctuations compound the suffering of the miners and their families.
+The situation is even worse on the mining operations on the gas giants in the system; cramped quarters, extreme temperatures, leaky radiation shielding and periodic gravity flunctuations compound the suffering of the miners and their families.
 
 ### Technology
 
@@ -14,7 +14,7 @@ Gudrid has no government per se; the mines are operated by the **Delta Consolida
 
 ### Alminge Laminio
 
-A small moon orbiting Gudrid, Alminge Laminio sports two outposts
+A large moon orbiting Gudrid, Alminge Laminio has two outposts
 
 * **Boulia** is the corporate headquarters for Delta Consolidated
 * **Ins** is a research facility, focused primarily on the giant star Tolantz Urietal α.
