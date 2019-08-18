@@ -23,9 +23,7 @@ Atquaaslaed has a relatively large cache of rare-earth elements, and the  levera
 
 ### Images
 
-![tony-zhou-shuo-desert-starport](https://worknate.github.io/galactic-encyclopedia/assets/tony-zhou-shuo-desert-starport.jpg)
-
 ![cuba-lee-strip-mine.jpg](https://worknate.github.io/galactic-encyclopedia/assets/cuba-lee-strip-mine.jpg)
 
-Artwork by [Tony Zhou Shuo](https://www.artstation.com/tnounsy) and [Cuba Lee](https://www.artstation.com/cubalee).
+Artwork by [Cuba Lee](https://www.artstation.com/cubalee).
 
