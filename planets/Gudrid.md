@@ -13,7 +13,6 @@ Other than some TL3 heavy machinery and small arms, most citizens in the system 
 Gudrid has no government per se; the mines are operated by the **Delta Consolidated Mining Company**, which provides official representation in the sector, along with minimal (poorly-trained, poorly-equipped) local security forces. The company operates a number of interstellar transports, two system patrol boats, and personel armed with a mix of TL3 and TL4 technology.
 
 ### Alminge Laminio
-(Moon)
 
 A small moon orbiting Gudrid, Alminge Laminio sports two outposts
 
