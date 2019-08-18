@@ -32,11 +32,12 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 
 ## Planets
 
-* [Atquuslaed](planets/Atquuslaed) - Berd system
-* [Aganian](planets/Aganian) - Joornei system
-* [Andophala](planets/Andophala) - Al-Sham system (0403)
-* _Gunn_ - Anishna Kuhu system
-* [Hani](planets/Hani) - Pamnaya Prekta system
+* [Atquuslaed](planets/Atquuslaed) - Berd (0302)
+* [Aganian](planets/Aganian) - Joornei (0505)
+* [Andophala](planets/Andophala) - Al-Sham (0403)
+* [Gudrid](planets/Gudrid) - Tolantz Urietal (0103)
+* _Gunn_ - Anishna Kuhu (1003)
+* [Hani](planets/Hani) - Pamnaya Prekta (0404)
 * [Earth](planets/Earth)
 
 ## Starships
