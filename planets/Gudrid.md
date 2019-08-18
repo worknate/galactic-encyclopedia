@@ -10,31 +10,20 @@ Other than some TL3 heavy machinery and small arms, most citizens in the system 
 
 ### Government
 
-Gudrid has no government per se; the mines are operated by the Delta Consolidated Mining company, which provides official representation in the sector, along with the minimal (poorly-trained, poorly-equipped) local security forces. The company operates a number of interstellar transports, two system patrol boats, and personel armed with a mix of TL3 and TL4 technology.
-
-
-
-Back
-Moon Base
-1 Base
-Boulia 1
-Research Base
-1 Base
-Ins
-
-
+Gudrid has no government per se; the mines are operated by the **Delta Consolidated Mining Company**, which provides official representation in the sector, along with minimal (poorly-trained, poorly-equipped) local security forces. The company operates a number of interstellar transports, two system patrol boats, and personel armed with a mix of TL3 and TL4 technology.
 
 ### Alminge Laminio
 (Moon)
 
-A small moon orbiting Gudrid, Alminge Laminio 
+A small moon orbiting Gudrid, Alminge Laminio sports two outposts
+
+* **Boulia** is the corporate headquarters for Delta Consolidated
+* **Ins** is a research facility, focused primarily on the giant star Tolantz Urietal α.
 
 ### Gas Giants
 
 * Canberra (Tolantz Urietal II) - Orbital mining operations
 * Igal (Tolantz Urietal III) - Orbital mining operations
-
-
 
 ### Images
 
