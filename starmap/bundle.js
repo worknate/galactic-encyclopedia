@@ -5519,9 +5519,10 @@ module.exports={
                     "classification": "G2V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Solo",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -5547,9 +5548,7 @@ module.exports={
                             ]
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Saheki 5",
                     "type": "refuelingStation"
@@ -5566,9 +5565,10 @@ module.exports={
                     "classification": "K0V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Hani",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "airlessThin",
                     "temperature": "frozen",
@@ -5616,9 +5616,7 @@ module.exports={
                             "type": "researchBase"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Freedom 7",
                     "type": "refuelingStation"
@@ -5635,9 +5633,10 @@ module.exports={
                     "classification": "F9V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Kameeja",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "inert",
                     "temperature": "temperate",
@@ -5649,9 +5648,7 @@ module.exports={
                             "type": "researchBase"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "29 Alvin",
                     "type": "asteroidBelt",
@@ -5688,9 +5685,10 @@ module.exports={
                     "classification": "M7V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Euryale XVI",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "thick",
                     "temperature": "temperate",
@@ -5715,9 +5713,10 @@ module.exports={
                     "classification": "WC3III"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Chippe",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -5726,6 +5725,7 @@ module.exports={
                 },
                 {
                     "name": "Admenes",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableWarm",
@@ -5743,9 +5743,7 @@ module.exports={
                             ]
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "(21)  Uzer",
                     "type": "asteroidBelt",
@@ -5784,9 +5782,10 @@ module.exports={
                     "classification": "M3V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Atquuslaed",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableWarm",
@@ -5795,6 +5794,7 @@ module.exports={
                 },
                 {
                     "name": "Berd II",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -5805,6 +5805,7 @@ module.exports={
                 },
                 {
                     "name": "Berd III",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -5825,9 +5826,10 @@ module.exports={
                     "classification": "G4V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Thora",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "thick",
                     "temperature": "variableWarm",
@@ -5839,9 +5841,7 @@ module.exports={
                             "type": "refuelingStation"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Brush 5",
                     "type": "researchBase"
@@ -5858,9 +5858,10 @@ module.exports={
                     "classification": "C3III"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Katalin Fra",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -5879,6 +5880,7 @@ module.exports={
                 },
                 {
                     "name": "Rafquat",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -5893,6 +5895,7 @@ module.exports={
                 },
                 {
                     "name": "Kinirgi Ekta III",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -5900,9 +5903,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Tarsus 3",
                     "type": "refuelingStation"
@@ -5919,9 +5920,10 @@ module.exports={
                     "classification": "B4V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Bergunn",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableWarm",
@@ -5953,9 +5955,7 @@ module.exports={
                             ]
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Oodnadatta 1",
                     "type": "researchBase"
@@ -5972,17 +5972,16 @@ module.exports={
                     "classification": "G5V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Foni",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "thick",
                     "temperature": "burning",
                     "biosphere": "immiscible",
                     "techLevel": "TL3"
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Kuba 6",
                     "type": "researchBase"
@@ -5999,9 +5998,10 @@ module.exports={
                     "classification": "DQ6"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Bihoa Baa",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "cold",
@@ -6020,6 +6020,7 @@ module.exports={
                 },
                 {
                     "name": "Al-Hash",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "airlessThin",
                     "temperature": "temperate",
@@ -6037,9 +6038,7 @@ module.exports={
                             "type": "researchBase"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Nicholson 5",
                     "type": "deepSpaceStation"
@@ -6060,9 +6059,10 @@ module.exports={
                     "classification": "M7V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Dores",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "airlessThin",
                     "temperature": "variableCold",
@@ -6093,9 +6093,10 @@ module.exports={
                     "classification": "K4V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Hallvei",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableWarm",
@@ -6104,6 +6105,7 @@ module.exports={
                 },
                 {
                     "name": "Thorhil II",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6111,9 +6113,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "016 Cadiz",
                     "type": "asteroidBelt",
@@ -6140,9 +6140,10 @@ module.exports={
                     "classification": "M4V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Sthemio",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableCold",
@@ -6167,9 +6168,10 @@ module.exports={
                     "classification": "DQ2"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Wassif",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableCold",
@@ -6178,6 +6180,7 @@ module.exports={
                 },
                 {
                     "name": "Aninzainis",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableWarm",
@@ -6192,6 +6195,7 @@ module.exports={
                 },
                 {
                     "name": "Chippe III",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6202,6 +6206,7 @@ module.exports={
                 },
                 {
                     "name": "Chippe IV",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6212,6 +6217,7 @@ module.exports={
                 },
                 {
                     "name": "Chippe V",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6219,9 +6225,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Fontana",
                     "type": "researchBase"
@@ -6238,9 +6242,10 @@ module.exports={
                     "classification": "M1V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Andophala XXII",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableWarm",
@@ -6275,9 +6280,10 @@ module.exports={
                     "classification": "G5V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Albelan",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableCold",
@@ -6296,9 +6302,10 @@ module.exports={
                     "classification": "F4V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Valfdis",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -6307,6 +6314,7 @@ module.exports={
                 },
                 {
                     "name": "Molario",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -6315,6 +6323,7 @@ module.exports={
                 },
                 {
                     "name": "Liza III",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6335,9 +6344,10 @@ module.exports={
                     "classification": "K8V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Sig",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -6346,14 +6356,13 @@ module.exports={
                 },
                 {
                     "name": "Nacimne",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
                     "biosphere": "immiscible",
                     "techLevel": "TL4"
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Coblentz",
                     "type": "refuelingStation"
@@ -6370,9 +6379,10 @@ module.exports={
                     "classification": "K0V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Calia",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "thick",
                     "temperature": "frozen",
@@ -6401,9 +6411,10 @@ module.exports={
                     "classification": "K6III"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Leiropi",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -6418,6 +6429,7 @@ module.exports={
                 },
                 {
                     "name": "Popolos II",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6425,9 +6437,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "La Paz 9",
                     "type": "deepSpaceStation"
@@ -6448,9 +6458,10 @@ module.exports={
                     "classification": "S5III"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Gudrid",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "corrosive",
                     "temperature": "temperate",
@@ -6475,6 +6486,7 @@ module.exports={
                 },
                 {
                     "name": "Tolantz Urietal II",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6485,6 +6497,7 @@ module.exports={
                 },
                 {
                     "name": "Tolantz Urietal III",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6492,9 +6505,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Pylos 5",
                     "type": "refuelingStation"
@@ -6511,9 +6522,10 @@ module.exports={
                     "classification": "M6V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Frid",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -6522,6 +6534,7 @@ module.exports={
                 },
                 {
                     "name": "Valiu II",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6529,9 +6542,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Kem 6",
                     "type": "refuelingStation"
@@ -6548,9 +6559,10 @@ module.exports={
                     "classification": "K5V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Mayrifa",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -6568,9 +6580,7 @@ module.exports={
                             ]
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "(8349)  Labria",
                     "type": "asteroidBelt",
@@ -6593,9 +6603,10 @@ module.exports={
                     "classification": "A5III"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Purasi Sha XV",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "invasive",
                     "temperature": "temperate",
@@ -6610,6 +6621,7 @@ module.exports={
                 },
                 {
                     "name": "Gunn",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "variableCold",
@@ -6618,6 +6630,7 @@ module.exports={
                 },
                 {
                     "name": "Plansul",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "airlessThin",
                     "temperature": "cold",
@@ -6644,6 +6657,7 @@ module.exports={
                 },
                 {
                     "name": "Anishna Kuhu IV",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6654,6 +6668,7 @@ module.exports={
                 },
                 {
                     "name": "Anishna Kuhu V",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6661,9 +6676,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Galilaei 8",
                     "type": "refuelingStation"
@@ -6680,17 +6693,16 @@ module.exports={
                     "classification": "K2V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Estelesoce",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
                     "biosphere": "humanMiscible",
                     "techLevel": "TL2"
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Meget 5",
                     "type": "researchBase"
@@ -6707,9 +6719,10 @@ module.exports={
                     "classification": "F4V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Phyleut",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "inert",
                     "temperature": "temperate",
@@ -6744,6 +6757,7 @@ module.exports={
                 },
                 {
                     "name": "Niddhar Gayanta",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -6758,6 +6772,7 @@ module.exports={
                 },
                 {
                     "name": "Liz III",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6765,9 +6780,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Rypin 7",
                     "type": "refuelingStation"
@@ -6784,9 +6797,10 @@ module.exports={
                     "classification": "K3V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Aganian",
+                    "type": "planet",
                     "class": "terran",
                     "atmosphere": "breathable",
                     "temperature": "temperate",
@@ -6795,6 +6809,7 @@ module.exports={
                 },
                 {
                     "name": "Joornei II",
+                    "type": "planet",
                     "class": "jovian",
                     "satellites": [
                         {
@@ -6802,9 +6817,7 @@ module.exports={
                             "type": "gasGiantMine"
                         }
                     ]
-                }
-            ],
-            "objects": [
+                },
                 {
                     "name": "Bole 4",
                     "type": "deepSpaceStation"
@@ -6821,7 +6834,7 @@ module.exports={
                     "classification": "blackhole"
                 }
             ],
-            "objects": [
+            "orbits": [
                 {
                     "name": "Kontum 8",
                     "type": "refuelingStation"
@@ -6838,7 +6851,7 @@ module.exports={
                     "classification": "blackhole"
                 }
             ],
-            "objects": [
+            "orbits": [
                 {
                     "name": "Downe 3",
                     "type": "deepSpaceStation"
@@ -6866,7 +6879,7 @@ module.exports={
                     "classification": "blackhole"
                 }
             ],
-            "objects": [
+            "orbits": [
                 {
                     "name": "Rauna",
                     "type": "deepSpaceStation"
@@ -12496,7 +12509,6 @@ const starmap = {
     background: 'rgb(9, 24, 51)',
     grid: {
         hexSizePx: 100,
-        marginPx: 50,
         color: 'rgba(255, 255, 255, 0.25)',
 
     },
@@ -12516,27 +12528,29 @@ const starmap = {
     },
     planet: {
         label: {
-            color: 'rgb(88, 153, 191)',
+            color: '#e3e3e3',
         },
         default: {
             type: 'airless',
             size: 'terran',
         },
-        type: {
+        atmosphere: {
             corrosive: {
-                color: 'orange',
+                color: 'yellow',
             },
             invasive: {
-                color: 'orange',
-            },
-            burning: {
-                color: 'orange',
+                color: 'red',
             },
             airless: {
                 color: 'lightgray',
             },
             inert: {
                 color: 'tan',
+            },
+        },
+        temperature: {
+            burning: {
+                color: 'orange',
             },
             frozen: {
                 color: 'white',
@@ -12555,7 +12569,7 @@ const starmap = {
             },
         },
         size: {
-            object: {
+            dwarf: {
                 radius: 0.015,
             },
             subterran: {
@@ -12591,15 +12605,89 @@ const printable = urlParams.has('printable');
 const data = require('../html/resources/converted.json');
 const classifications = require('../html/resources/classifications.json')
 
-SVG.on(document, 'DOMContentLoaded', () => view());
+if (urlParams.has('detail')) {
+    SVG.on(document, 'DOMContentLoaded', () => detail());
+} else {
+    SVG.on(document, 'DOMContentLoaded', () => view());
+}
 
 // great code pen: https://codepen.io/SanderMoolin/pen/BRLvNb
 // honeycomb lib: https://github.com/flauwekeul/honeycomb
 
-const view = () => {
+// Turn two numbers into a padded 4-digit string
+const coords = (x, y) => {
+    return x.toString().padStart(2, '0') + y.toString().padStart(2, '0');
+}
 
-    const hexSize = starmap.grid.hexSizePx;
-    const margin = starmap.grid.marginPx;
+const getSystemData = (x, y) => {
+    const matches = data.systems.filter((s) => {
+        return s.x === x && s.y === y;
+    });
+    if (matches && matches.length === 1) {
+        return matches[0];
+    } else if (!matches || matches.length < 1) {
+        // console.error(`No matches found for ${x}, ${y}`);
+    } else {
+        console.error(`Possible multiple matches found for ${x}, ${y}`);
+        if (x === 0 && y === 0) {
+            console.log(data.systems);
+        }
+    }
+}
+
+const starAttributes = (classification) => {
+    let stellarClass = classification || starmap.star.default.classification;
+
+    // default values
+    let radius = 1;
+    let color = 'gray';
+
+    stellarClass = stellarClass.toLowerCase();
+
+    if (stellarClass === 'blackhole') {
+        radius = 0.3; // arbitrary
+        color = 'black';
+    } else {
+        try {
+            const classes = classifications.filter((c) => c.Type.toLowerCase() === stellarClass);
+            radius = classes[0].Radius;
+            color = classes[0].RGB;
+        } catch (e) {
+            console.error('Could not find stellar class "' + stellarClass + '"')
+        }
+    }
+    return { radius, color };
+}
+
+// largest star radius = 231,000
+// largest class III star radius ~3700
+// largest known star radius = 1500-2000 (VY Canis Majoris)
+// smallest star radius =  0.00696
+// max display radius = 100 = hexSize
+// sol display radius = 20
+// min display radius = 5 = hexSize /20
+// smallest sub-dwarf size we want to show is 0.1 Sol radius
+// lets make it logarithmic-ish so stars make sense
+const magicRadius = (radius) => {
+    if (radius < 0.1) {
+        return 5; // magic floor
+    } else if (radius < 1) {
+        // radius between 5% and 99% of Sol 
+        return Math.pow(radius, 1 / 1.663) * 20
+    } else if (radius < 2000) {
+        // radius between 1x and 2000x of Sol
+        return Math.pow(radius, 1 / 4.723) * 20;
+    } else {
+        return 100; // magic ceiling
+    }
+}
+
+const hexSize = starmap.grid.hexSizePx;
+const headerFontSize = hexSize * 0.24;
+const margin = headerFontSize;
+const headerYMargin = headerFontSize * 3;
+
+const view = () => {
 
     const columns = data.sector.columns;
     const rows = data.sector.rows;
@@ -12609,12 +12697,12 @@ const view = () => {
         hexSize * 1.5 * columns + (2 * margin) + (hexSize / 2),
         // height is sqrt(3) x size
         columns === 1 // assume flat hexes
-            ? hexSize * Math.sqrt(3) * rows + (2 * margin)
-            : hexSize * Math.sqrt(3) * rows + (2 * margin) + (Math.sqrt(3) * hexSize / 2)
+            ? hexSize * Math.sqrt(3) * rows + (2 * headerYMargin)
+            : hexSize * Math.sqrt(3) * rows + (2 * headerYMargin) + (Math.sqrt(3) * hexSize / 2)
     );
 
     const scene = body.nested()
-        .attr({ x: margin, y: margin }); // x, y is offset
+        .attr({ x: headerFontSize, y: headerFontSize * 3 }); // x, y is offset
 
     const Hex = Honeycomb.extendHex({
         size: hexSize,
@@ -12661,14 +12749,14 @@ const view = () => {
         .fill(backgroundColor)
         .stroke({ width: 1, color: hexStrokeColor });
 
-    const drawSystemLabel = (system) => {
+    const drawSystemLabel = (parent, system) => {
         const hex = grid.get(Hex(system.x, system.y));
         const position = hex.toPoint();
         const center = getCenter(hex);
 
         const fontSize = hexSize * 0.14;
 
-        scene.text(system.name)
+        parent.text(system.name)
             .fill(starLabelColor)
             .font({
                 family: starmap.font,
@@ -12679,26 +12767,19 @@ const view = () => {
             .move(center.x, position.y + (fontSize * 0.75));
 
         let techLevel = '';
-        if (Array.isArray(system.planets)) {
-            console.log('system.planets', system.planets)
-            let techPlanets = system.planets.filter((planet) => {
-                console.log('planet has a techLevel: ' + (planet.techLevel));
+        if (Array.isArray(system.orbits)) {
+            let techPlanets = system.orbits.filter((planet) => {
                 return planet.techLevel;
             });
-            console.log('techPlanets', techPlanets);
             if (Array.isArray(techPlanets) && techPlanets.length > 0) {
-                // console.log('techLevels', techLevels);
                 techPlanets.sort();
                 const planet = techPlanets.pop()
-                console.log('planet', planet);
                 techLevel = ' ' + planet.techLevel;
             }
         }
-        const coords = system.x.toString().padStart(2, '0') + system.y.toString().padStart(2, '0');
 
         if (system.stars)
-
-            scene.text(coords + techLevel)
+            parent.text(coords(system.x, system.y) + techLevel)
                 .fill(starCoordsColor)
                 .font({
                     family: starmap.font,
@@ -12709,137 +12790,271 @@ const view = () => {
                 .move(center.x, position.y + (hexSize / 2 * Math.sqrt(3)) * 2 - (fontSize * 1.8));
     };
 
+    const drawStar = (parent, hex, star) => {
+        const { radius, color } = starAttributes(star.classification);
 
-    // largest star radius = 231,000
-    // largest class III star radius ~3700
-    // largest known star radius = 1500-2000 (VY Canis Majoris)
-    // smallest star radius =  0.00696
-    // max display radius = 100 = hexSize
-    // sol display radius = 20
-    // min display radius = 5 = hexSize /20
-    // smallest sub-dwarf size we want to show is 0.1 Sol radius
-    // lets make it logarithmic-ish so stars make sense
-    const magicRadius = (radius) => {
-        if (radius < 0.1) {
-            return 5; // magic floor
-        } else if (radius < 1) {
-            // radius between 5% and 99% of Sol 
-            return Math.pow(radius, 1 / 1.663) * 20
-        } else if (radius < 2000) {
-            // radius between 1x and 2000x of Sol
-            return Math.pow(radius, 1 / 4.723) * 20;
-        } else {
-            return 100; // magic ceiling
-        }
-    }
-
-    console.log('upper bound', magicRadius(1999.99))
-
-    const drawStar = (x, y, stellarClass) => {
-        stellarClass = stellarClass || starmap.star.default.classification;
-
-        // default values
-        let radius = 1;
-        let color = 'gray';
-
-        stellarClass = stellarClass.toLowerCase();
-
-        if (stellarClass === 'blackhole') {
-            radius = 0.3; // arbitrary
-            color = 'black';
-        } else {
-            try {
-                const classes = classifications.filter((c) => c.Type.toLowerCase() === stellarClass);
-                radius = classes[0].Radius;
-                color = classes[0].RGB;
-            } catch (e) {
-                console.error('Could not find stellar class "' + stellarClass + '"')
-            }
-        }
-
-        const hex = grid.get(Hex(x, y));
-        const position = hex.toPoint();
         const center = getCenter(hex);
 
-        const star = scene.circle(magicRadius(radius) / 100 * hexSize)
+        const circle = parent.nested().circle(magicRadius(radius) / 100 * hexSize)
             .fill(color)
             .stroke(starStroke)
             .attr({ cx: center.x, cy: center.y });
 
-        star.click(function () {
+        circle.click(function () {
             detail(x, y, this);
-        })
-    };
-
-    const drawPlanet = (planet) => {
-        const radius = starmap.planet.size[planet.size].radius;
-        const color = starmap.planet.type[planet.type];
-
-        // console.log('radius', radius);
-        // console.log('color', color);
-        const drawing = scene.circle(hexSize * radius)
-            .fill(color)
-            .stroke(planetStroke);
-
-        return drawing;
-    }
-
-    const drawPlanets = (x, y, planets) => {
-        const hex = grid.get(Hex(x, y));
-        const position = hex.toPoint();
-        const center = getCenter(hex);
-
-        // calculate position here
-        const systemLength = planets.length * 16;
-        // let vertical = (planets.length -1) * -8;
-        let vertical = systemLength / -2
-
-        planets.forEach(planet => {
-            // const drawing = drawPlanet(planet);
-            // drawing.attr({cx: center.x, cy: center.y + vertical});
-            // let name = planet.name;
-            // let color = starmap.grid.color;
-            // if (planet.techLevel) {
-            //     name += ' (TL' + planet.techLevel + ')';
-            //     color = 'white';
-            // }
-            // scene.text(name)
-            //     .fill(color)
-            //     .font({
-            //         family: starmap.font,
-            //         size: 16,
-            //         weight: 400,
-            //         anchor: 'left',
-            //     })
-            //     .move(center.x + 24, center.y + vertical - 8);
-            // vertical += 24;
         });
-    }
 
-    const detail = (x, y, sourceElement) => {
-
-    }
-
-    const gridSvg = scene.nested();
+        return circle;
+    };
 
     grid.forEach(hex => {
         const { x, y } = hex.toPoint();
         // use hexSymbol and set its position for each hex
-        const newHex = gridSvg.use(hexSymbol).translate(x, y);
-        newHex.click(function () {
-            detail(x, y, this);
-        })
-    });
+        const hexContainer = scene.nested();
+        const polygon = hexContainer.use(hexSymbol).translate(x, y);
 
-    data.systems.forEach(system => {
-        if (Array.isArray(system.stars)) {
-            system.stars.forEach(star => {
-                drawStar(system.x, system.y, star.classification);
-            });
+        // When we have a system in the hex, show a link
+        const system = getSystemData(hex.x, hex.y);
+        if (system) {
+            let link = '?detail=' + coords(hex.x, hex.y);
+            if (printable) {
+                link += '&printable';
+            }
+            hexContainer.linkTo(link);
+
+            if (Array.isArray(system.stars)) {
+                system.stars.forEach(star => {
+                    drawStar(hexContainer, hex, star);
+                });
+            }
+            drawSystemLabel(hexContainer, system);
         }
-        drawSystemLabel(system);
     });
 
+    body.text(data.sector.name + ' Sector')
+        .fill(starLabelColor)
+        .font({
+            family: starmap.font,
+            size: headerFontSize,
+            weight: 'bold',
+            anchor: 'left',
+        })
+        .move(headerFontSize, headerFontSize);
+
+};
+
+const detail = () => {
+    const body = SVG(drawing).size(
+        window.innerWidth,
+        window.innerHeight
+    );
+
+    const midY = window.innerHeight / 2;
+
+    const scene = body.nested();
+
+    // Printable colors or starmap config colors
+    if (printable) {
+        document.body.style.backgroundColor = "none";
+    } else {
+        document.body.style.backgroundColor = starmap.background;
+    }
+
+    const coordinates = urlParams.get('detail');
+    let system = {};
+
+    try {
+        const x = parseInt(coordinates.substring(0, 2));
+        const y = parseInt(coordinates.substring(2, 4));
+        const matches = data.systems.filter((s) => {
+            return s.x === x
+                && s.y === y;
+        });
+        system = matches[0];
+    } catch (e) {
+        console.error(e);
+        throw ('Unable to display detail page for ' + coordinates);
+    }
+
+    const backgroundColor = printable ? 'rgb(255,255,255)' : starmap.background;
+    const hexStrokeColor = printable ? 'rgba(0,0,0,0.75)' : starmap.grid.color;
+    const starLabelColor = printable ? 'rgba(0,0,0,0.90)' : starmap.star.label.color;
+    const starCoordsColor = printable ? 'rgba(0,0,0,0.75' : starmap.star.coordinates.color;
+
+    const starStroke = printable ? { width: 1, color: starLabelColor } : undefined;
+    const planetStroke = printable ? { width: 1, color: starLabelColor } : { width: 1, color: backgroundColor }
+
+    const drawStarDetail = (star) => {
+        const { radius, color } = starAttributes(star.classification);
+
+        const starDiameter = magicRadius(radius) * 10;
+        const disc = scene.circle(starDiameter)
+            .fill(color)
+            .attr({
+                stroke: color,
+                'stroke-width': 12,
+                'stroke-opacity': 0.5,
+                cx: starDiameter / -4,
+                cy: midY
+            });
+
+        return starDiameter;
+    };
+
+    const drawStars = (stars) => {
+        let largestDiameter = 0;
+        stars.forEach(star => {
+            largestDiameter = Math.max(largestDiameter, drawStarDetail(star));
+        });
+        return largestDiameter;
+    }
+
+    const drawPlanet = (planet, starX, starY, orbitRadius, offset = 0) => {
+        const radius = starmap.planet.size[planet.class].radius;
+
+        const atmosphere = planet.atmosphere || 'airless';
+        const temperature = planet.temperature || 'frozen';
+        const biosphere = planet.biosphere || 'none';
+
+        const atmosphereColor = starmap.planet.atmosphere[planet.atmosphere] ?
+            starmap.planet.atmosphere[planet.atmosphere].color
+            : false;
+
+        const temperatureColor = starmap.planet.temperature[planet.temperature] ?
+            starmap.planet.temperature[planet.temperature].color
+            : false;
+
+        const color = planet.color || atmosphereColor || temperatureColor || 'gray';
+
+        const opposite = midY + offset; // opposite; orbitRadius = hypotenuse
+        const sine = offset / orbitRadius;
+        const angle = Math.asin(sine);
+        const adjacent = Math.cos(angle) * orbitRadius;
+
+        const orbit = scene.circle(orbitRadius * 2)
+            .attr({
+                fill: "none",
+                stroke: hexStrokeColor,
+                'stroke-width': 1
+            })
+            .attr({ cx: starX, cy: starY });
+
+        const planetX = starX + adjacent;
+        const planetY = opposite;
+
+        const disc = scene.circle(300 * radius)
+            .fill(color)
+            .stroke(planetStroke)
+            .attr({ cx: planetX, cy: planetY });
+
+        let name = planet.name;
+        if (planet.techLevel) {
+            name += ' (' + planet.techLevel + ')';
+        }
+
+        const fontSize = hexSize * 0.14;
+
+        let labelX = planetX;
+        let labelY = planetY + (fontSize / 2) + (150 * radius);
+        // if (offset < 0) {
+        //     labelY = planetY - ((fontSize * 1.5) + (150 * radius));
+        // }
+
+        scene.text(name)
+            .fill(starmap.planet.label.color)
+            .font({
+                family: starmap.font,
+                size: fontSize,
+                weight: 400,
+                anchor: 'left',
+            })
+            .move(labelX, labelY);
+
+        return disc;
+    }
+
+    const drawOrbits = (orbits, starDiameter) => {
+
+        if (orbits.length < 1) {
+            return;
+        }
+
+        const orbitsBound = window.innerWidth - (starDiameter / 2 - starDiameter / 4);
+
+        const orbitWidth = orbitsBound / (orbits.length + 2);
+
+        let orbitX = starDiameter / -4;
+
+        let orbitDiameter = starDiameter + orbitWidth;
+        let highlow = 1;
+
+        const shiftCeiling = window.innerWidth / 8;
+        const shiftFloor = shiftCeiling / 3;
+
+        orbits.forEach(orbit => {
+            orbitDiameter += (orbitWidth * 2);
+
+            // default shift
+            let shiftY = (shiftFloor + shiftCeiling) / 2;
+
+            // use the name, if any, to create an interesting shift
+            if (orbit.name) {
+                let num = 0;
+                for (var i = 0; i < orbit.name.length; i++) {
+                    num += (orbit.name.charCodeAt(i).toString(10)) - 47;
+                }
+                shiftY = (num % (shiftCeiling - shiftFloor)) + shiftFloor;
+            }
+
+            if (orbit.type === 'planet') {
+                const planet = drawPlanet(orbit, starDiameter / -4, midY, orbitDiameter / 2, shiftY * highlow);
+
+            } else if (orbit.type === 'asteroidBelt') {
+                scene.circle(orbitDiameter)
+                    .attr({
+                        fill: "none",
+                        stroke: hexStrokeColor,
+                        'stroke-dasharray': "1,8",
+                        'stroke-linecap': "round",
+                        'stroke-width': 5
+                    })
+                    .attr({ cx: orbitX, cy: midY });
+                scene.circle(orbitDiameter + 15)
+                    .attr({
+                        fill: "none",
+                        stroke: hexStrokeColor,
+                        'stroke-dasharray': "1,8",
+                        'stroke-linecap': "round",
+                        'stroke-width': 5
+                    })
+                    .attr({ cx: orbitX, cy: midY });
+            } else {
+
+                scene.circle(orbitDiameter)
+                    .attr({
+                        fill: "none",
+                        stroke: 'purple',
+                        'stroke-width': 3
+                    })
+                    .attr({ cx: orbitX, cy: midY });
+
+            }
+            highlow *= -1;
+        });
+    }
+
+    const starDiameter = drawStars(system.stars);
+    drawOrbits(system.orbits, starDiameter);
+
+    scene.text(system.name + ' System (' + coords(system.x, system.y) + ')')
+        .fill(starLabelColor)
+        .font({
+            family: starmap.font,
+            size: headerFontSize,
+            weight: 'bold',
+            anchor: 'left',
+        })
+        .move(headerFontSize, headerFontSize);
 
 };
 },{"../html/resources/classifications.json":1,"../html/resources/converted.json":2,"./config":5,"honeycomb-grid":3,"svg.js":4}]},{},[6]);

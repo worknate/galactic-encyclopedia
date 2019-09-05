@@ -15,55 +15,109 @@
                     "classification": "G2V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Mercury",
-                    "type": "burning",
-                    "size": "subterran"
+                    "type": "planet",
+                    "atmosphere": "airless",
+                    "temperature": "burning",
+                    "color": "red",
+                    "class": "subterran",
+                    "pos": 1
                 },
                 {
                     "name": "Venus",
-                    "type": "corrosive",
-                    "size": "terran"
+                    "type": "planet",
+                    "atmosphere": "airless",
+                    "temperature": "burning",
+                    "class": "terran",
+                    "pos": 2
                 },
                 {
                     "name": "Earth",
-                    "type": "temperate",
-                    "size": "terran",
-                    "techLevel": "TL3"
+                    "type": "planet",
+                    "atmosphere": "breathable",
+                    "temperature": "temperate",
+                    "biosphere": "humanMiscible",
+                    "class": "terran",
+                    "techLevel": "TL3",
+                    "pos": 3
                 },
                 {
                     "name": "Mars",
-                    "type": "inert",
-                    "size": "terran"
+                    "type": "planet",
+                    "atmosphere": "airless",
+                    "temperature": "cold",
+                    "color": "red",
+                    "class": "terran",
+                    "pos": 4
                 },
                 {
                     "name": "Jupiter",
-                    "type": "inert",
-                    "size": "jovian"
+                    "type": "planet",
+                    "atmosphere": "thick",
+                    "temperature": "cold",
+                    "class": "jovian",
+                    "pos": 6
                 },
                 {
                     "name": "Saturn",
-                    "type": "inert",
-                    "size": "jovian"
+                    "type": "planet",
+                    "atmosphere": "thick",
+                    "temperature": "cold",
+                    "class": "jovian",
+                    "pos": 7
                 },
                 {
                     "name": "Uranus",
-                    "type": "variableCold",
-                    "size": "neptunian"
+                    "type": "planet",
+                    "atmosphere": "airless",
+                    "temperature": "frozen",
+                    "class": "neptunian",
+                    "pos": 8
                 },
                 {
                     "name": "Neptune",
-                    "type": "variableCold",
-                    "size": "neptunian"
+                    "type": "planet",
+                    "atmosphere": "airless",
+                    "temperature": "frozen",
+                    "class": "neptunian",
+                    "pos": 9
                 },
                 {
                     "name": "Pluto",
-                    "type": "airless",
-                    "size": "object"
+                    "type": "planet",
+                    "atmosphere": "airless",
+                    "temperature": "frozen",
+                    "class": "dwarf",
+                    "pos": 10
+                },
+                {
+                    "name": "Asteroid Belt",
+                    "type": "asteroidBelt",
+                    "pos": 4,
+                    "satellites": [
+                        {
+                            "name": "U.N.S. Archimedes",
+                            "type": "refuelingStation"
+                        }
+                    ],
+                    "bases": [
+                        {
+                            "name": "Vesta 5",
+                            "type": "asteroidBase"
+                        },
+                        {
+                            "name": "Ceres 2",
+                            "type": "asteroidBase"
+                        }
+                    ]
+                },
+                {
+                    "name": "Wau 3",
+                    "type": "refuelingStation"
                 }
-            ],
-            "objects": []
+            ]
         },
         {
             "name": "V404 Cygni",
@@ -79,8 +133,7 @@
                     "classification": "blackhole"
                 }
             ],
-            "planets": [],
-            "objects": []
+            "orbits": []
         },
         {
             "name": "Kepler-42",
@@ -92,8 +145,7 @@
                     "classification": "M5V"
                 }
             ],
-            "planets": [],
-            "objects": []
+            "orbits": []
         },
         {
             "name": "Alpha Centauri",
@@ -113,14 +165,14 @@
                     "classification": "M5V"
                 }
             ],
-            "planets": [
+            "orbits": [
                 {
                     "name": "Proxima Centauri b",
-                    "type": "variableCold",
-                    "size": "terran"
+                    "type": "planet",
+                    "temperature": "variableCold",
+                    "class": "terran"
                 }
-            ],
-            "objects": []
+            ]
         },
         {
             "name": "Betelgeuse",
@@ -132,8 +184,7 @@
                     "classification": "M2Ia"
                 }
             ],
-            "planets": [],
-            "objects": []
+            "orbits": []
         },
         {
             "name": "Gliese 752",
@@ -145,8 +196,7 @@
                     "classification": "m2V"
                 }
             ],
-            "planets": [],
-            "objects": []
+            "orbits": []
         },
         {
             "name": "Sirius",
@@ -158,8 +208,7 @@
                     "classification": "a1v"
                 }
             ],
-            "planets": [],
-            "objects": []
+            "orbits": []
         },
         {
             "name": "VY Canis Majoris",
@@ -171,8 +220,7 @@
                     "classification": "m2ia"
                 }
             ],
-            "planets": [],
-            "objects": []
+            "orbits": []
         }
     ]
 }
