@@ -39,6 +39,7 @@ Welcome to the Galactic Encyclopedia for **Bactriani Gamma** sector, a repositor
 * _Gunn_ - Anishna Kuhu (1003)
 * [Hani](planets/Hani) - Pamnaya Prekta (0404)
 * [Earth](planets/Earth)
+* [Solo](planets/Solo) - Nima (0605)
 
 ## Starships
 
