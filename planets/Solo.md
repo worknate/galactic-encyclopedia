@@ -21,7 +21,7 @@ The refueling station is the only place to get starship fuel in the system.
 
 ### Images
 
-![factor_city.jpg](https://worknate.github.io/galactic-encyclopedia/assets/factor_city.jpg)
+![factor city.jpg](https://worknate.github.io/galactic-encyclopedia/assets/factor%20city.jpg)
 
 Artwork (I believe) by [John Harris](http://www.alisoneldred.com/artistJohnHarris.html).
 
